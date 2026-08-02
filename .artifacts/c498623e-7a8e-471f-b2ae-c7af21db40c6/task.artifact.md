@@ -1,0 +1,4 @@
+- [/] Jetpack Compose хувилбарыг шинэчлэх
+    - [ ] `libs.versions.toml` - `composeBom` хувилбарыг `2026.06.01` болгох
+    - [ ] Gradle Sync хийх
+    - [ ] Апп-ыг хөрвүүлж шалгах

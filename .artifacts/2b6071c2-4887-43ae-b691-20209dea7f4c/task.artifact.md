@@ -1,0 +1,6 @@
+- `[x]` Firebase-тэй холбоотой кодуудыг устгах
+    - `[x]` `SpeedFCMService.kt` файлыг устгах
+    - `[x]` `AndroidManifest.xml`-ээс FCM тохиргоог хасах
+    - `[x]` `libs.versions.toml`-оос Firebase сангуудыг хасах
+    - `[x]` Төслийн `build.gradle.kts`-ээс Firebase плагиныг хасах
+- `[x]` Төслийг build хийж шалгах

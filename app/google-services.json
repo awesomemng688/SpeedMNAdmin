@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894436806103",
+    "project_id": "speed-21e71",
+    "storage_bucket": "speed-21e71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894436806103:android:1fea78af8a58c45ccf8f92",
+        "android_client_info": {
+          "package_name": "mn.speed.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoccwMlp8t5p9W0KwZDddK4R0ScSsyc0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

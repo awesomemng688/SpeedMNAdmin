@@ -1,0 +1,5 @@
+- [x] Update Hilt and KSP versions in `libs.versions.toml`
+- [x] Update `gradle.properties` (remove `newDsl=false`, update `suppressAgpWarnings`)
+- [x] Migrate to built-in Kotlin (remove `kotlin-android` and `kotlin-compose` plugins)
+- [x] Perform Gradle Sync
+- [x] Verify build
